@@ -42,7 +42,8 @@ Contract Source Code: The source code of the Degen Token contract.
 
 Go to the Snowtrace verification page: https://www.snowtrace.io/verify.
 
-![image](https://github.com/0Sujal/-Degen-Token-ERC-20-/assets/90201074/027af427-a67b-416b-8ee8-061188f3573c)
+![Uploading image.png…]()
+
 
 #### remix setup
 
